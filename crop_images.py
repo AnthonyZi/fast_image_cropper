@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 from fast_image_cropper import Editor
 import sys
 import os

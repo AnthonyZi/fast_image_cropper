@@ -1,3 +1,6 @@
+installation:
+pip3 install -r requirements.txt
+
 usage:
 start program "crop_images.py" in any folder containing all images you want to crop
 

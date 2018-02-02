@@ -2,7 +2,6 @@ import cv2
 import numpy as np
 import copy
 import skimage.io as skiio
-import matplotlib.pyplot as plt
 
 colors = dict()
 colors["black"] = (1,1,1)
